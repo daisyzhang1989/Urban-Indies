@@ -1,13 +1,12 @@
 # 都市インディーズ  
 ## 介绍
-東京の地下バンドを応援するため、「都市インディーズ 」という音ゲームプロジェクトを始めました。
-まず知り合いの地下バンドから音源をもらって、ゲームのdemoを作ってみました。
+東京の地下バンドを応援するため、「都市インディーズ 」という音ゲームプロジェクトを始めました。 
   
-**Current issues**    
-* There are problems with the holding keys.
-* This project may be migrated to Godot.
+* 
+* Unityで本番を作成中
 
 ## Demo
+まず知り合いの地下バンドから音源をもらって、ゲームのdemoを作ってみました。
 
 ### 譜面エディタ (Note Editor)で作ったCloudy
 
@@ -25,11 +24,7 @@
 
 
 ### ゲームプレイ (Gameplay)
-
-作成した .json の譜面データを読み込んで  
-リズムゲームとしてプレイすることができます。
-
-また、動作確認用としてオートプレイモードも用意しています。
+リズムに合わせて、敵を撃つ
 
 ![Music select](screenshots/select.png)  
 ![Game play](screenshots/game.png)
@@ -46,13 +41,3 @@
 
 ![Settings](screenshots/settings.png)
 
-
-## 遊び方 (How to Play)
-
-Release ページからゲーム本体と  
-テスト用の譜面データ（.wav と .json）をダウンロードできます。
-
-また、Unity で直接プロジェクトを開くことも可能です。
-
-Unity Version：  
-Unity 2022.3.57f1
