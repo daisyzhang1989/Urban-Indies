@@ -8,6 +8,7 @@
 ## Demo
 知り合いの地下バンドから「Cloudy」という曲の音源を提供してもらい、曲の世界観をもとにデモを制作しました。
 
+<img width="203" height="122" alt="Screenshot 2026-03-07 at 20 13 45" src="https://github.com/user-attachments/assets/fd2d4971-8869-4a96-accf-8b08bdc242c8" />
 
 #### 遊び方
 バンドメンバーをモチーフにしたキャラクターを操作し、音楽のリズムに合わせて敵を撃つゲームです。
