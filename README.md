@@ -22,8 +22,8 @@
 - 画像素材は現在 AI 生成を使用（将来的には自作予定）
 
 ## Demo
-知り合いの地下バンド "Hi-nomady" から「Cloudy」という曲の音源を提供してもらい、曲の世界観をもとにデモを制作しました。
-<img width="303" height="522" alt="Screenshot 2026-03-07 at 20 13 45" src="https://github.com/user-attachments/assets/fd2d4971-8869-4a96-accf-8b08bdc242c8" />
+知り合いの地下バンド "Hi-nomady" から「Cloudy」という曲の音源を提供してもらい、曲の世界観をもとにデモを制作しました。  
+<img width="303" height="522" alt="Screenshot 2026-03-07 at 20 13 45" src="https://github.com/user-attachments/assets/fd2d4971-8869-4a96-accf-8b08bdc242c8" />  
 <img width="303" height="222" alt="ChatGPT Image Mar 7, 2026, 08_34_06 PM" src="https://github.com/user-attachments/assets/01e3c9af-d270-4238-b56a-8ef3d0fd8ebc" />
 
 #### 遊び方
