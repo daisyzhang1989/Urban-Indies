@@ -27,8 +27,8 @@
 #### 遊び方
 バンドメンバーをモチーフにしたキャラクターを操作し、音楽のリズムに合わせて敵を撃つゲームです。
 
-<img width="203" height="422" alt="Screenshot 2026-03-07 at 20 13 45" src="https://github.com/user-attachments/assets/fd2d4971-8869-4a96-accf-8b08bdc242c8" />
-<img width="203" height="122" alt="ChatGPT Image Mar 7, 2026, 08_34_06 PM" src="https://github.com/user-attachments/assets/01e3c9af-d270-4238-b56a-8ef3d0fd8ebc" />
+<img width="503" height="722" alt="Screenshot 2026-03-07 at 20 13 45" src="https://github.com/user-attachments/assets/fd2d4971-8869-4a96-accf-8b08bdc242c8" />
+<img width="503" height="422" alt="ChatGPT Image Mar 7, 2026, 08_34_06 PM" src="https://github.com/user-attachments/assets/01e3c9af-d270-4238-b56a-8ef3d0fd8ebc" />
 
 #### 技術的な背景
 GitHub 上で公開されている既存の譜面エディタを見つけ、まずはそれを利用してプロトタイプを進めることにしました。  
