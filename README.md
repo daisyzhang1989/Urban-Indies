@@ -33,7 +33,7 @@
 
 
 #### 技術的な背景
-GitHub 上で公開されている既存の譜面エディタを見つけ、まずはそれを利用してプロトタイプを進めることにしました。  
+GitHub 上で公開されている既存の譜面エディタ[NoteEditor by setchi](https://github.com/setchi/NoteEditor)を見つけ、まずはそれを利用してプロトタイプを進めることにしました。  
 現在使用しているエディタは BPM 固定を前提としていますが、今後はコード構造を理解した上で、BPM 変化に対応できるように改良することを考えています。  
 <img width="674" height="320" alt="Screenshot 2026-03-09 at 2 57 40" src="https://github.com/user-attachments/assets/42068f60-05f6-453c-98d8-9285c10a84c0" />
 
